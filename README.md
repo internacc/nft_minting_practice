@@ -4,4 +4,4 @@
 * Truffle framework for running, deploying and testing the smart contracts : [Truffle](https://trufflesuite.com/)
 * Ganache Docs for running a personal blokchain on your local machine : [Ganache](https://trufflesuite.com/ganache/)
 
-# This is now obsolte as trhough truffle, I was not able to compile the smart contract. Then shifted to hardhat for the same.
+# This is now obsolte as through truffle, I was not able to compile the smart contract. Then shifted to hardhat for the same.
